@@ -43,7 +43,7 @@ After getting through of dozen of (way too complicated) Docker setups, this repo
 
 1. Install newest [Docker for Mac](https://www.docker.com/) with Homebrew: `brew cask install docker` and run Docker.app
 2. Register to [Docker Hub](https://hub.docker.com) and login from Docker app, or run `docker login`
-3. Clone [dudestack](https://github.com/digitoimistodude/dudestack) repository
+3. Clone [dudestack](https://github.com/digitoimistodude/dudestack) repository to `~/Projects`
 4. Go to cloned dir, run `sh bin/setup.sh`, choose Docker (number 3) and follow the instructions
 
 **Plase note:** You can test this Docker setup standalone, if you clone the repo and put index.html to the root of the repo and just run:
